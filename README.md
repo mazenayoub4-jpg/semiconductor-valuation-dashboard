@@ -11,6 +11,12 @@ The main goal of this dashboard is to provide a clean, side-by-side comparison o
 ## Dashboard View
 ![Dashboard View](dashboard.png)
 
+## Dashboard Views
+![Main Overview](project%20nvidia%20.png)
+![Valuation Deep Dive](project%20nvidia%202.png)
+![Volume Analysis](project%20nvidia%203.png)
+![Historical Trends](project%20nvidia%204.png)
+
 ---
 
 ## Key Focus Areas
